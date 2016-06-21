@@ -22,3 +22,4 @@ To git everything is my test, To code is my cause.
 * *Learning Git, bash and Javascript.*
 * *Computer literate and proficient*
 * *Computer programming and maintenance*
+* *Microsoft Office Suite*
