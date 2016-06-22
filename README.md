@@ -23,3 +23,4 @@ To git everything is my test, To code is my cause.
 * *Computer literate and proficient*
 * *Computer programming and maintenance*
 * *Microsoft Office Suite*
+* *Computer testing*
