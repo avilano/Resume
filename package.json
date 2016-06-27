@@ -1,0 +1,32 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Alberto Ettienne Vilano Reyna's Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avilano/Resume.git"
+  },
+  "keywords": [
+    "avilano",
+    "resume",
+    "vilano",
+    "alberto",
+    "vilano",
+    "alberto",
+    "ettienne",
+    "alberto",
+    "ettienne",
+    "vilano",
+    "reyna"
+  ],
+  "author": "Alberto E. Vilano Reyna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avilano/Resume/issues"
+  },
+  "homepage": "https://github.com/avilano/Resume#readme"
+}
