@@ -1,17 +1,17 @@
-#README
 
-**Alberto Ettienne Vilano Reyna:**
+# **Alberto Ettienne Vilano Reyna:**
 
-*Contact Information*
+*Contact Information:*
 
 *Email: A00515689@live.com*
+
 *Phone:(956)-509-0840*
 
 **Education:**
 
 _The University of Texas Rio Grande Valley_
 
-*Bachelors of Science in Engineering Physics - Bioengineering Specialization.*
+**Bachelors of Science in Engineering Physics - Bioengineering Specialization.**
 
 Senior Design Project: Microscopy Imaging Enhancement System.
 
@@ -23,11 +23,13 @@ Senior Design Project: Microscopy Imaging Enhancement System.
 
 **EXPERIENCE:**
 
-Engineering Academic Tutor The University of Texas Rio Grande Valley 2015 – Current
+Engineering Academic Tutor The University of Texas Rio Grande Valley 2015
 
 * Tutoring courses on Bioengineering, Computer Science, Chemistry, Linear Circuits.
 
 Lean Challenge Engineer Intern General Electric Energy Management Summer 2015
+
+Position: GE Intern
 
 * Team project proposal, design and implementation.
 
@@ -41,7 +43,7 @@ Lean Challenge Engineer Intern General Electric Energy Management Summer 2015
 
 The University of Texas: Enterprise Infrastructure 2013 – 2015
 
-> Position: Network Support Specialist
+Position: Network Support Specialist
 
 * Software update and managing.
 
